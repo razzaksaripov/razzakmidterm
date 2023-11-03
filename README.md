@@ -1,10 +1,5 @@
 1.Clone the repository using the command below :
 code: git clone https://github.com/razzaksaripov/razzakmidterm.git
-
-then move to directory where we have the project files : 
-code: cd blog
-
-
  Create and install virtual environment :
 code: pip install virtualenv
  Install the requirements :
